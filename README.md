@@ -6,7 +6,7 @@
 	<img src="/assets/img/title.svg">
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/ILostMyMedic/ILostMyMedic/master/assets/animations/programmer.gif" width="250"/>
+<img align="right" src="/assets/img/programmer.gif" width="250"/>
 
 ### Hi, i'm Tima, Frontend Developer 💻 
 
