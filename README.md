@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center">
+	Welcome!
+	![main](https://github.com/Tima-Omega/Tima-Omega/blob/main/assets/img/title.svg)
+</h3>
 
 <!--
 **Tima-Omega/Tima-Omega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
