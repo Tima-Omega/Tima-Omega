@@ -6,6 +6,8 @@
 	<img src="/assets/img/title.svg">
 </p>
 
+<img align="right" src="https://raw.githubusercontent.com/ILostMyMedic/ILostMyMedic/master/assets/animations/programmer.gif" width="250"/>
+
 ### Hi, i'm Tima, Frontend Developer 💻 
 
 ### ⁉️ About me 
@@ -23,6 +25,7 @@
 
 
 <p>
+
 <a href="#">
  <img alt="react" src="https://img.shields.io/badge/react(learning)-FF0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
