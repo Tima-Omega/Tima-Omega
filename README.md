@@ -1,6 +1,6 @@
 <h3 align="center">
 	Welcome!
-	![main](https://github.com/Tima-Omega/Tima-Omega/blob/main/assets/img/title.svg)
+	<img src="/assets/img/title.svg">
 </h3>
 
 <!--
