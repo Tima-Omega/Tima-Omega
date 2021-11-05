@@ -24,46 +24,46 @@
 
 <p>
 <a href="#">
- <img alt="react" src="https://img.shields.io/badge/react(learning)-8C0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+ <img alt="react" src="https://img.shields.io/badge/react(learning)-FF0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
  <a href="#">
-<img alt="vue" src="https://img.shields.io/badge/vue(learning)-8C0000.svg?&style=for-the-badge&logo=vuedotjs&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="vue" src="https://img.shields.io/badge/vue(learning)-FF0000.svg?&style=for-the-badge&logo=vuedotjs&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="node.js" src="https://img.shields.io/badge/node.js(learning)-8C0000.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/node.js(learning)-FF0000.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="html5" src="https://img.shields.io/badge/html-8C0000.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/html-FF0000.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="css3" src="https://img.shields.io/badge/css-8C0000.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-FF0000.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="sass" src="https://img.shields.io/badge/sass-8C0000.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/sass-FF0000.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="jquery" src="https://img.shields.io/badge/jquery-8C0000.svg?&style=for-the-badge&logo=jquery&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="jquery" src="https://img.shields.io/badge/jquery-FF0000.svg?&style=for-the-badge&logo=jquery&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="javascript" src="https://img.shields.io/badge/javascript-8C0000.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-FF0000.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-8C0000.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-FF0000.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="tailwind" src="https://img.shields.io/badge/tailwind-8C0000.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="tailwind" src="https://img.shields.io/badge/tailwind-FF0000.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="gulp" src="https://img.shields.io/badge/gulp-8C0000.svg?&style=for-the-badge&logo=gulp&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="gulp" src="https://img.shields.io/badge/gulp-FF0000.svg?&style=for-the-badge&logo=gulp&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="webpack" src="https://img.shields.io/badge/webpack-8C0000.svg?&style=for-the-badge&logo=webpack&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="webpack" src="https://img.shields.io/badge/webpack-FF0000.svg?&style=for-the-badge&logo=webpack&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="git" src="https://img.shields.io/badge/git-8C0000.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="git" src="https://img.shields.io/badge/git-FF0000.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-8C0000.svg?&style=for-the-badge&logo=gitlab&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="gitlab" src="https://img.shields.io/badge/gitlab-FF0000.svg?&style=for-the-badge&logo=gitlab&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 </p>
 
