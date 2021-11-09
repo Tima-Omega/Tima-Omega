@@ -16,10 +16,6 @@
 
 - ⌚ 24 y.o
 
-- 🚀 I want to be Senior Front-End
-
-- 👨‍💻 I have little experience but I can do a lot
-
 
 ### ⚙️ Tech Stack:
 
