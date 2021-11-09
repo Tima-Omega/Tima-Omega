@@ -16,6 +16,10 @@
 
 - ⌚ 24 y.o
 
+- I have done over 20 projects of varying complexity.
+
+- I create successful websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS, building small and medium web apps, animations, web pages with adaptive, responsive, cross-browser layout using modern web technologies. 
+
 
 ### ⚙️ Tech Stack:
 
