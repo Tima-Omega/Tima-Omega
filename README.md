@@ -27,13 +27,19 @@
 <p>
 
 <a href="#">
- <img alt="react" src="https://img.shields.io/badge/react(learning)-FF0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
-</a>
- <a href="#">
-<img alt="vue" src="https://img.shields.io/badge/vue(learning)-FF0000.svg?&style=for-the-badge&logo=vuedotjs&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
+ <img alt="react" src="https://img.shields.io/badge/react-FF0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
-<img alt="node.js" src="https://img.shields.io/badge/node.js(learning)-FF0000.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
+<img alt="vue" src="https://img.shields.io/badge/redux(learning)-FF0000.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
+</a>
+<a href="#">
+<img alt="vue" src="https://img.shields.io/badge/next.js(learning)-FF0000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
+</a>
+<a href="#">
+<img alt="vue" src="https://img.shields.io/badge/react native(learning)-FF0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
+</a>
+<a href="#">
+<img alt="node.js" src="https://img.shields.io/badge/node.js-FF0000.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
 </a>
 <a href="#">
 <img alt="html5" src="https://img.shields.io/badge/html-FF0000.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=D00B0B" />&nbsp;
